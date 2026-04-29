@@ -14,11 +14,11 @@
 
 Стартовое меню:
 
-![image](https://raw.githubusercontent.com/German-D/test_users/main/static/menu.png)
+![image](https://github.com/VanishID/tg_UserGeneratorBot/blob/main/menu.png)
 
 После выбора количества пользователей:
 
-![image](https://allwebs.ru/image/2026-04-29-13-21-38.rN60do)
+![image](https://github.com/VanishID/tg_UserGeneratorBot/blob/main/generate.png)
 
 ## 💻 Технологии
 
