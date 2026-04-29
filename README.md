@@ -18,7 +18,7 @@
 
 После выбора количества пользователей:
 
-![image](https://raw.githubusercontent.com/German-D/test_users/main/static/generate.png)
+![image](https://allwebs.ru/image/2026-04-29-13-21-38.rN60do)
 
 ## 💻 Технологии
 
