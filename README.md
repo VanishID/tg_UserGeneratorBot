@@ -59,4 +59,4 @@ python3 test_users_bot.py
 
 ## Автор
 
-Иван Депутатов ([@dolnikov](https://t.me/dolnikov))
+Иван Депутатов
