@@ -14,7 +14,7 @@
 
 Стартовое меню:
 
-![image](https://github.com/VanishID/tg_UserGeneratorBot/blob/main/menu.png)
+<img width="1188" height="1023" alt="Image" src="https://github.com/user-attachments/assets/e11f8048-823b-4680-b8bf-07646c41352b" />
 
 После выбора количества пользователей:
 
