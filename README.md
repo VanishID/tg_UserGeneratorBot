@@ -16,6 +16,7 @@
 
 <img width="1188" height="1023" alt="Image" src="https://github.com/user-attachments/assets/e11f8048-823b-4680-b8bf-07646c41352b" />
 
+
 После выбора количества пользователей:
 
 <img width="1187" height="1032" alt="Image" src="https://github.com/user-attachments/assets/3246cfd9-ec65-45ba-8097-7498aa06c967" />
