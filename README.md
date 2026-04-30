@@ -18,7 +18,7 @@
 
 После выбора количества пользователей:
 
-![image](https://github.com/VanishID/tg_UserGeneratorBot/blob/main/generate.png)
+<img width="1187" height="1032" alt="Image" src="https://github.com/user-attachments/assets/3246cfd9-ec65-45ba-8097-7498aa06c967" />
 
 ## 💻 Технологии
 
