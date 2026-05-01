@@ -60,4 +60,4 @@ python3 test_users_bot.py
 
 ## Автор
 
-Иван Депутатов  ([Telegram](https://t.me/IvanD_QA), [Email](mailto:wanish666@yandex.ru))
+Иван Депутатов  ([Telegram](https://t.me/IvanD_QA), [Email](deputatovivan272@gmail.com))
